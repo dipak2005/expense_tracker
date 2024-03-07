@@ -50,6 +50,9 @@ class BudgetController extends GetxController {
       print("success");
     } else {
       print(" else success");
+      print(" else success");
+      print(" else success");
+
     }
   }
 
